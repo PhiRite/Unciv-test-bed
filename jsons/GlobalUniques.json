@@ -1,8 +1,11 @@
 {
         "name": "Global uniques",
-        "uniques": [],
+        "uniques": [
+                "[+1 Gold, +1 Production, +1 Science, +1 Culture, +1 Happiness, +1 Food, +1 Faith] [in your cities] <for every [1] [Gold]> <for [Coleopteran Swarm] Civilizations>",
+                 "All newly-trained [All] units [in your cities] receive the [Testers] promotion <for [Coleopteran Swarm] Civilizations>"
+        ],
         "unitUniques": [
-                        "All newly-trained [All] units [in your cities] receive the [Testers] promotion <for [Coleopteran Swarm] Civilizations>"
+                       
                         
 
         ]
