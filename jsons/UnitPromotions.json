@@ -1,6 +1,10 @@
 [
         {
 		"name": "Testers",
-		"uniques": ["Can destroy cities", "[+100]% Strength <vs cities>"]
+		"uniques": ["Can destroy non capital cities", "[+100]% Strength <vs cities>"]
+	},
+	{
+		"name": "Testers I",
+		"uniques": ["Can destroy all cities", "[+100]% Strength <vs cities>"]
 	},
 ]
