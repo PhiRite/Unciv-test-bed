@@ -23,7 +23,8 @@
 		"innerColor": [39, 40, 47],
 
 		"uniqueName": "Imperator Insectorum",
-		"uniques": ["Comment [testing: the destroy mechanic]",],
+		"uniques": ["Comment [testing: the destroy mechanic]",
+				"Reveals the entire map <upon turn start>"],
 		"cities": ["Broodspire", "Chitin Depths", "Larval Cradle", "Molt Bastion", "Sporegard", "Hive Nucleus", "Tunnels of Ruul", 
 					"Verdant Maw", "Carapace Hollow", "Bloomroot Basin", "Fungal Verge", "Creep Expanse", "Silken Expanse", "Burrowhold", 
 					"Mycocore", "Thrummire", "Sporeshade", "Antenna Ridge", "Cradle of Tayzzyronth", "The Endless Womb"],
