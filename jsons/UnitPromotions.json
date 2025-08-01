@@ -1,7 +1,7 @@
 [
         {
 		"name": "Testers",
-		"uniques": ["Can destroy [All] cities", "[+100]% Strength <vs cities>"]
+		"uniques": ["Can destroy [in City-State cities] cities", "[+100]% Strength <vs cities>"]
 	},
 	{
 		"name": "Testers I",
