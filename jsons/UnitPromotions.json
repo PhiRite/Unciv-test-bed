@@ -1,10 +1,10 @@
 [
         {
 		"name": "Testers",
-		"uniques": ["Can destroy [in City-State cities] cities", "[+100]% Strength <vs cities>"]
+		"uniques": ["Attacks deal equal area damage to units in a [1] tile radius", "Damages self with Aoe attacks"]
 	},
 	{
 		"name": "Testers I",
-		"uniques": ["Can destroy [All] cities", "[+100]% Strength <vs cities>"]
+		"uniques": ["Attacks deal area damage to units in a [2] tile radius, decreasing with distance", "Damages allied units with Aoe attacks"]
 	},
 ]
