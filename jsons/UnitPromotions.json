@@ -1,10 +1,10 @@
 [
         {
 		"name": "Testers",
-		"uniques": ["Attacks deal equal area damage to units in a [1] tile radius",  "Damages allied units with Aoe attacks"]
+		"uniques": ["Attacks deal area damage to units in a [1] tile radius, decreasing with distance", "Damages allied units with Aoe attacks"]
 	},
 	{
 		"name": "Testers I",
-		"uniques": ["Attacks deal area damage to units in a [2] tile radius, decreasing with distance", "Damages self with Aoe attacks"]
+		"uniques": ["Attacks deal equal area damage to units in a [2] tile radius", "Damages self with Aoe attacks"]
 	},
 ]
