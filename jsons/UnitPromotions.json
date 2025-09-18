@@ -2,7 +2,8 @@
 	{
 		"name": "Testers",
 		"uniques": ["Comment [PLS WORK GOD]",
-					"2 SET TF <for [Testers I] units>"]
+					"2 SET TF <for [Testers I] units>",
+					"[This Unit] gains the [Testers I] promotion <upon turn end>"]
 	},
 	{
 		"name": "Testers I",
