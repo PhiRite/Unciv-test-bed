@@ -12,6 +12,16 @@
 	},
 	{
 		"name": "TF",
+		"uniques": ["Commnet [IT WORKSSSSS]",
+					"3 SET TF <for [Testers I] units>",]
+	}
+	{
+		"name": "TFF",
+		"uniques": ["Commnet [IT WORKSSSSS]",
+					"4 SET TF <for [Testers I] units>",]
+	}
+	{
+		"name": "TFFF",
 		"uniques": ["Commnet [IT WORKSSSSS]"]
 	}
 ]
