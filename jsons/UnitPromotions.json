@@ -1,17 +1,16 @@
 [
 	{
 		"name": "Testers",
-		"uniques": ["Can destroy [Enemy] cities", "[+200]% Strength <vs cities>",
-			
-					"Attacks also target units within [2] tiles, with damage decreasing by distance",
-					"Takes counter damage from each unit hit by its area attacks",
-					"Damages allied units with Aoe attacks"]
+		"uniques": ["Comment [PLS WORK GOD]",
+					"2 SET TF <for [Testers I] units>"]
 	},
 	{
 		"name": "Testers I",
-		"uniques": ["Can destroy [Enemy] cities", "[+200]% Strength <vs cities>",
-			
-					"Attacks also target all units within [2] tiles",
-					"Damages self with Aoe attacks"]
+		"uniques": ["Comment [PLSSSSS]",
+					"[+1]% Strength"]
 	},
+	{
+		"name": "TF",
+		"uniques": ["Commnet [IT WORKSSSSS]"]
+	}
 ]
