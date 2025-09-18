@@ -7,8 +7,8 @@
         ],
         "unitUniques": [
                 "[This Unit] gains the [TF] promotion <for [2 SET TF] units> <upon turn end>",
-                "[This Unit] gains the [TFF] promotion <for [3 SET TF] units> <upon turn end>",
-                "[This Unit] gains the [TFFF] promotion <for [4 SET TF] units> <upon turn end>"
+                "[This Unit] gains the [TFF] promotion <for [2 SET TF] units> <upon turn end>",
+                "[This Unit] gains the [TFFF] promotion <for [{4 SET TF} {3 SET TF}] units> <upon turn end>"
                         
 
         ]
