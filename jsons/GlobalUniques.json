@@ -6,9 +6,9 @@
                 "All newly-trained [Ranged] units [in your cities] receive the [Testers I] promotion <for [Coleopteran Swarm] Civilizations>"
         ],
         "unitUniques": [
-                "[This Unit] gains the [TF] promotion <for [2 SET TF] units> <upon turn end>",
-                "[This Unit] gains the [TFF] promotion <for [TF] units> <upon turn end>",
-                "[This Unit] gains the [TFFF] promotion <for [{4 SET TF} {3 SET TF}] units> <upon turn end>"
+                "[This Unit] gains the [TF] promotion <for [Testers] units> <with [50]% chance> <upon turn end>",
+                "[This Unit] gains the [TFF] promotion <for [Testers] units> <with [50]% chance> <upon turn end>",
+                "[This Unit] gains the [TFFF] promotion <for [Testers] units> <with [50]% chance> <upon turn end>",
                         
 
         ]
