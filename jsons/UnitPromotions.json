@@ -12,15 +12,18 @@
 	{
 		"name": "TF",
 		"uniques": ["Commnet [IT WORKSSSSS]",
+					"Limiter"
 					]
 	}
 	{
 		"name": "TFF",
 		"uniques": ["Commnet [IT WORKSSSSS]",
+					"Limiter"
 					]
 	}
 	{
 		"name": "TFFF",
-		"uniques": ["Commnet [IT WORKSSSSS]"]
+		"uniques": ["Commnet [IT WORKSSSSS]",
+					"Limiter"]
 	}
 ]
