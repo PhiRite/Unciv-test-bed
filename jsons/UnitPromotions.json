@@ -3,15 +3,15 @@
 		"name": "Testers",
 		"uniques": ["Can destroy [Enemy] cities", "[+200]% Strength <vs cities>",
 			
-					"Attacks also target units within [2] tiles, with damage decreasing by distance",
+					"Attacks also target [All] units within [2] tiles, with damage decreasing by distance",
 					"Takes counter damage from each unit hit by its area attacks",
 					"Damages allied units with Aoe attacks"]
 	},
 	{
 		"name": "Testers I",
 		"uniques": ["Can destroy [Enemy] cities", "[+200]% Strength <vs cities>",
-			
-					"Attacks also target all units within [2] tiles",
+				
+					"Attacks also target [Melee] units within [2] tiles",
 					"Damages self with Aoe attacks"]
 	},
 ]
