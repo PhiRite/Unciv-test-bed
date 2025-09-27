@@ -4,8 +4,8 @@
 		"uniques": [//"Destroys [Enemy] cities instead of capturing", "[+200]% Strength <vs cities>",
 			
 					"Attacks also target [{Melee} {non-[Coleopteran Swarm]}] units within [2] tiles, with damage decreasing by distance",
-					"Takes counter damage from each unit hit by its area attacks",
-					"Damages allied units with Aoe attacks"]
+					"Takes counter damage from each unit hit by its area attacks"
+					]
 	},
 	{
 		"name": "Testers I",
