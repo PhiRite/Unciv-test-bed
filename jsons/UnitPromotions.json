@@ -2,7 +2,7 @@
 	{
 		"name": "Testers",
 		"uniques": [//"Destroys [Enemy] cities instead of capturing", "[+200]% Strength <vs cities>",
-			
+					"[+100] Strength",
 					"Attacks also target [Melee] units within [2] tiles, with damage decreasing by distance",
 					"Takes counter damage from each unit hit by its area attacks"
 					]
@@ -10,7 +10,7 @@
 	{
 		"name": "Testers I",
 		"uniques": [//"Destroys [Enemy] cities instead of capturing", "[+200]% Strength <vs cities>",
-				
+					"[Target Unit] gains the [Testers] promotion",
 					"Attacks also target [Ranged] units within [2] tiles",
 					"Damages self with Aoe attacks"
 					]
