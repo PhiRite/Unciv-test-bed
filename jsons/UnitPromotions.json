@@ -2,7 +2,7 @@
 	{
 		"name": "Testers",
 		"uniques": [//"Destroys [Enemy] cities instead of capturing", "[+200]% Strength <vs cities>",
-					"[+100]% Strength", "Self-destructs when attacking",
+					"[+100]% Strength",
 					"Attacks also target [Melee] units within [2] tiles, with damage decreasing by distance",
 					"Takes [100]% counter damage from each unit hit by its area attacks"
 					]
