@@ -4,7 +4,7 @@
 		"uniques": [//"Destroys [Enemy] cities instead of capturing", "[+200]% Strength <vs cities>",
 					"[+100]% Strength", "Self-destructs when attacking",
 					"Attacks also target [Melee] units within [2] tiles, with damage decreasing by distance",
-					"Takes counter damage from each unit hit by its area attacks"
+					"Takes [100]% counter damage from each unit hit by its area attacks"
 					]
 	},
 	{
