@@ -11,10 +11,10 @@
 		"name": "Testers I",
 		"uniques": [//"Destroys [Enemy] cities instead of capturing", "[+200]% Strength <vs cities>",
 					"[+50]% Strength",
-					"[Target Unit] gains the [Testers] promotion <upon damaging a [All] unit>",
-					"[Target Unit] gains the [Testers I] promotion <upon damaging a [All] unit>",
-					"Attacks also target [All] units within [2] tiles",
-					"Damages self with Aoe attacks"
+					//"[Target Unit] gains the [Testers] promotion <upon damaging a [All] unit>",
+					//"[Target Unit] gains the [Testers I] promotion <upon damaging a [All] unit>",
+					"Attacks also target [{All} {non-[Coleopteran Swarm]}] units within [2] tiles",
+					"Takes [100]% damage from own area attacks"
 					]
 	},
 ]
