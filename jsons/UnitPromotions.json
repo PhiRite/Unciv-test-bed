@@ -6,7 +6,7 @@
     {
         "name": "INF TELE",
         "uniques": ["May Paradrop to [All] tiles up to [5] tiles away",
-                    "Cannot Move"
+                    "Cannot move"
                     ]
     },
     {
