@@ -1,0 +1,18 @@
+[
+    {
+        "name": "testme",
+        "text": "Testing spawners"
+        "choices":[
+            {
+                "text": "Spawn 1",
+                "uniques": [
+                    "[1] free [warrior] units appear <in [All] cities>"
+            },
+            {
+                "text": "Spawn 2",
+                "uniques": [
+                    "[2] free [warrior] units appear <in [All] cities>"
+            },
+        ]
+    }
+]
