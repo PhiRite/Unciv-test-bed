@@ -24,7 +24,8 @@
 
 		"uniqueName": "Imperator Insectorum",
 		"uniques": ["Comment [testing: the destroy mechanic]",
-				"Reveals the entire map <upon turn start>"],
+				"Reveals the entire map <upon turn start>",
+				"[1] free [Warrior] units appear <upon turn end> <in [All] cities>"],
 		"cities": ["Broodspire", "Chitin Depths", "Larval Cradle", "Molt Bastion", "Sporegard", "Hive Nucleus", "Tunnels of Ruul", 
 					"Verdant Maw", "Carapace Hollow", "Bloomroot Basin", "Fungal Verge", "Creep Expanse", "Silken Expanse", "Burrowhold", 
 					"Mycocore", "Thrummire", "Sporeshade", "Antenna Ridge", "Cradle of Tayzzyronth", "The Endless Womb"],
