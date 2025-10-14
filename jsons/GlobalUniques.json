@@ -3,7 +3,9 @@
         "uniques": [
                 "[+1 Gold, +2 Production, +1 Science, +1 Culture, +1 Happiness, +1 Food, +1 Faith] [in your cities] <for every [1] [turns]> <for [Coleopteran Swarm] Civilizations>",
                 "All newly-trained [Melee] units [in your cities] receive the [Testers] promotion <for [Coleopteran Swarm] Civilizations>",
-                "All newly-trained [Ranged] units [in your cities] receive the [Testers I] promotion <for [Coleopteran Swarm] Civilizations>"
+                "All newly-trained [Ranged] units [in your cities] receive the [Testers I] promotion <for [Coleopteran Swarm] Civilizations>",
+
+                "[1] free [Warrior] units appear <upon turn end> <in cities with a [Palace]> <for [Coleopteran Swarm] Civilizations>"
         ],
         "unitUniques": [
                        
