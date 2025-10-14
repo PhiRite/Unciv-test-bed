@@ -14,7 +14,7 @@
         "uniques": ["[This Unit] loses the [INF TELE] status <upon entering a [All] tile>",
                     "[This Unit] gains the [INF TELE] status for [1] turn(s) <for [0] movement>",
                     "[This Unit] gains [1] movement <upon gaining the [INF TELE] status>",
-                    "[This Unit] gains the [Summoner] promotion"
+                    "[This Unit] gains the [Summoner] promotion <upon gaining the [BASE TELE] promotion>"
                     ]
     }
 ]
