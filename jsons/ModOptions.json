@@ -1,0 +1,10 @@
+{
+    "modUrl": "https://github.com/PhiRite/Unciv-test-bed/tree/for-live-game",
+    "author": "PhiRite",
+    "uniques":[
+        "Allow raze capital"
+    ],
+    "constants":{
+            "maxXPfromBarbarians": 999999
+    }
+}
