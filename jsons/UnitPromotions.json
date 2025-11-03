@@ -1,19 +1,8 @@
 [
     {
-        "name": "Summoner",
-        "uniques": ["[3] free [Warrior] units appear <upon entering a [All] tile>"]
+        "name": "Kaboom",
+        "uniques": ["Destroys [All] cities instead of capturing",
+                    "[+999]% Strength"]
     },
-    {
-        "name": "INF TELE",
-        "uniques": ["May Paradrop to [All] tiles up to [5] tiles away",
-                    ]
-    },
-    {
-        "name":"BASE TELE",
-        "uniques": ["[This Unit] loses the [INF TELE] status <upon entering a [All] tile>",
-                    "[This Unit] gains the [INF TELE] status for [1] turn(s) <for [0] movement>",
-                    "[This Unit] gains [1] movement <upon gaining the [INF TELE] status>",
-                    "[This Unit] gains the [Summoner] promotion <upon gaining the [BASE TELE] promotion>"
-                    ]
-    }
+    
 ]
