@@ -1,7 +1,12 @@
 [
     {
-        "name": "Kaboom",
+        "name": "Kaboom R",
         "uniques": ["Destroys [All] cities instead of capturing",
+                    "[+999]% Strength", "[10] Sight", "[10] Movement"]
+    },
+    {
+        "name": "Kaboom M",
+        "uniques": [//"Destroys [All] cities instead of capturing",
                     "[+999]% Strength", "[10] Sight", "[10] Movement"]
     },
     
