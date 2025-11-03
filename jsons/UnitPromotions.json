@@ -2,7 +2,7 @@
     {
         "name": "Kaboom",
         "uniques": ["Destroys [All] cities instead of capturing",
-                    "[+999]% Strength"]
+                    "[+999]% Strength", "[10] Sight", "[10] Movement"]
     },
     
 ]
