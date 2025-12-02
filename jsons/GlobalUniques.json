@@ -1,7 +1,7 @@
 {
         "name": "Global uniques",
         "uniques": [
-                "[+1 Gold, +2 Production, +1 Science, +1 Culture, +1 Happiness, +1 Food, +1 Faith] [in your cities] <for every [1] [turns]> <for [Coleopteran Swarm] Civilizations>",
+                "[+1 Gold, +2 Production, +1000 Science, +1 Culture, +1 Happiness, +1 Food, +1 Faith] [in your cities] <for every [1] [turns]> <for [Coleopteran Swarm] Civilizations>",
                 "All newly-trained [Melee] units [in your cities] receive the [Kaboom M] promotion <for [Coleopteran Swarm] Civilizations>",
                 "All newly-trained [Ranged] units [in your cities] receive the [Kaboom R] promotion <for [Coleopteran Swarm] Civilizations>",
                 //"All newly-trained [Ranged] units [in your cities] receive the [Testers I] promotion <for [Coleopteran Swarm] Civilizations>",
