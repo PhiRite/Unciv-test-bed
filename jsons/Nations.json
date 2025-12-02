@@ -25,6 +25,7 @@
 		"uniqueName": "Imperator Insectorum",
 		"uniques": ["Comment [testing: the destroy mechanic]",
 				"Reveals the entire map <upon turn start>",
+				"May buy [Air] units for [1] [Gold] [in your cities]",
 				//"Triggers a [testme] event <upon turn end> <every [5] turns> <(modified by game speed)>",
 		],
 		"cities": ["Broodspire", "Chitin Depths", "Larval Cradle", "Molt Bastion", "Sporegard", "Hive Nucleus", "Tunnels of Ruul", 
