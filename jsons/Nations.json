@@ -24,6 +24,7 @@
 
 		"uniqueName": "Imperator Insectorum",
 		"uniques": ["Comment [testing: the destroy mechanic]",
+				"May buy [Air] units for [3] [Gold] [in all cities]",
 				"Reveals the entire map <upon turn start>"],
 		"cities": ["Broodspire", "Chitin Depths", "Larval Cradle", "Molt Bastion", "Sporegard", "Hive Nucleus", "Tunnels of Ruul", 
 					"Verdant Maw", "Carapace Hollow", "Bloomroot Basin", "Fungal Verge", "Creep Expanse", "Silken Expanse", "Burrowhold", 
