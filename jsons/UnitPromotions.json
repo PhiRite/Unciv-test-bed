@@ -1,20 +1,12 @@
 [
 	{
 		"name": "Testers",
-		"uniques": [//"Destroys [Enemy] cities instead of capturing", "[+200]% Strength <vs cities>",
-					"[+100]% Strength",
-					"Attacks also target [Melee] units within [2] tiles, with damage decreasing by distance",
-					"Takes [100]% counter damage from each unit hit by its area attacks"
+		"uniques": ["Can be carried"
 					]
 	},
 	{
 		"name": "Testers I",
-		"uniques": [//"Destroys [Enemy] cities instead of capturing", "[+200]% Strength <vs cities>",
-					"[+50]% Strength",
-					//"[Target Unit] gains the [Testers] promotion <upon damaging a [All] unit>",
-					//"[Target Unit] gains the [Testers I] promotion <upon damaging a [All] unit>",
-					"Attacks also target [{All} {non-[Coleopteran Swarm]}] units within [2] tiles",
-					"Takes [100]% damage from own area attacks"
+		"uniques": ["Can carry [3] [All] units"
 					]
 	},
 ]
