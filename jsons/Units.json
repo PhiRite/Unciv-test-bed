@@ -1,0 +1,14 @@
+[
+    {
+        "name": "ROCK",
+        "unitType": "Missile",
+        "movement": 1,
+        "strength": 60,
+        "rangedStrength": 60,
+        "range": 8,
+        "cost": 1,
+        "uniqueTo": "Coleopteran Swarm",
+        "uniques": ["[-100]% maintenance costs", "Can be carried"],
+        "attackSound": "missile"
+    }
+]
