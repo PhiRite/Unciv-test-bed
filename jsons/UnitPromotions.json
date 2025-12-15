@@ -1,12 +1,12 @@
 [
 	{
 		"name": "Testers",
-		"uniques": ["Can be carried"
+		"uniques": ["Can carry [3] [All] units", "Open topped"
 					]
 	},
 	{
 		"name": "Testers I",
-		"uniques": ["Can carry [3] [All] units"
+		"uniques": ["Can be carried"
 					]
 	},
 ]
