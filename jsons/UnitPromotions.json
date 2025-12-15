@@ -6,7 +6,7 @@
 	},
 	{
 		"name": "Testers I",
-		"uniques": ["Can be carried"
+		"uniques": ["Can be carried", "[This Unit] takes [50] damage <upon turn end> <When carried by [Testers] units>"
 					]
 	},
 ]
