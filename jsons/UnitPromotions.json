@@ -1,7 +1,7 @@
 [
 	{
 		"name": "Testers",
-		"uniques": ["Can carry [3] [All] units", "Open topped", "[This Unit] takes [50] damage <when number of [Carried [Testers I] units] is more than [2]>"
+		"uniques": ["Can carry [3] [All] units", "Open topped", "[This Unit] takes [50] damage <upon turn end> <when number of [Carried [Testers I] units] is more than [2]>"
 					]
 	},
 	{
