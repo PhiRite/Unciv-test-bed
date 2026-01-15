@@ -1,12 +1,16 @@
 [
 	{
 		"name": "Testers",
-		"uniques": ["Can carry [3] [All] units", "Carried units can attack without disembarking", "[This Unit] takes [50] damage <upon turn end> <when number of [Carried [Testers I] units] is more than [2]>"
+		"uniques": [
+					//"Can carry [3] [All] units", "Carried units can attack without disembarking",
+					"Can be carried",
 					]
 	},
 	{
 		"name": "Testers I",
-		"uniques": ["Can be carried", "[This Unit] takes [50] damage <upon turn end> <when carried by [Testers] units>"
+		"uniques": [
+					//"Can be carried",
+					"Can carry [3] [All] units", "Carried units can attack without disembarking",
 					]
 	},
 ]
