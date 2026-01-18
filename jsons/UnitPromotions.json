@@ -1,7 +1,7 @@
 [
 	{
 		"name": "Testers",
-		"column": 20,
+		"column": 30,
         "row": 0,
         "unitTypes": ["Ranged"],
 		"uniques": [
@@ -11,7 +11,7 @@
 	},
 	{
 		"name": "Testers I",
-		"column": 20,
+		"column": 30,
         "row": 1,
         "unitTypes": ["Melee"],
 		"uniques": [
