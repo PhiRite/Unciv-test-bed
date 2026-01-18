@@ -17,7 +17,7 @@
 		"uniques": [
 					//"Can be carried",
 					"Can carry [3] [All] units",
-					//"Carried units can attack without disembarking",
+					"Carried units disembark when attacking",
 					]
 	},
 ]
