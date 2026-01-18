@@ -1,6 +1,9 @@
 [
 	{
 		"name": "Testers",
+		"column": 8,
+        "row": 0,
+        "unitTypes": ["Land"],
 		"uniques": [
 					//"Can carry [3] [All] units", "Carried units can attack without disembarking",
 					"Can be carried",
@@ -8,6 +11,9 @@
 	},
 	{
 		"name": "Testers I",
+		"column": 8,
+        "row": 1,
+        "unitTypes": ["Land"],
 		"uniques": [
 					//"Can be carried",
 					"Can carry [3] [All] units", "Carried units can attack without disembarking",
