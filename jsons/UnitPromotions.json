@@ -1,8 +1,8 @@
 [
 	{
 		"name": "Testers",
-		"column": 30,
-        "row": 0,
+		"column": 0,
+        "row": 10,
         "unitTypes": ["Ranged"],
 		"uniques": [
 					//"Can carry [3] [All] units", "Carried units can attack without disembarking",
@@ -11,8 +11,8 @@
 	},
 	{
 		"name": "Testers I",
-		"column": 30,
-        "row": 1,
+		"column": 0,
+        "row": 11,
         "unitTypes": ["Melee"],
 		"uniques": [
 					//"Can be carried",
