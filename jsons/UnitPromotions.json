@@ -6,7 +6,7 @@
         "unitTypes": ["Ranged"],
 		"uniques": [
 					//"Can carry [3] [All] units", "Carried units can attack without disembarking",
-					"Can be carried",
+					//"Can be carried",
 					]
 	},
 	{
