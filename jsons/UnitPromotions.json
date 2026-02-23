@@ -16,7 +16,7 @@
         "unitTypes": ["Melee"],
 		"uniques": [
 					//"Can be carried",
-					"Can carry [3] [All] units",
+					"Can carry [3] [Marine] units",
 					"Carried units disembark when attacking",
 					]
 	},
