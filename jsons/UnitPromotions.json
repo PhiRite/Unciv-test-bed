@@ -5,7 +5,7 @@
         "row": 10,
         "unitTypes": ["Ranged"],
 		"uniques": [
-					//"Can carry [3] [All] units", "Carried units can attack without disembarking",
+					//"Can carry [3] [All] units",
 					//"Can be carried",
 					]
 	},
@@ -17,7 +17,6 @@
 		"uniques": [
 					//"Can be carried",
 					"Can carry [3] [Marine] units",
-					"Carried units disembark when attacking",
 					]
 	},
 ]
