@@ -8,7 +8,7 @@
         "range": 8,
         "cost": 1,
         "uniqueTo": "Coleopteran Swarm",
-        "uniques": ["[-100]% maintenance costs", "Can be carried"],
+        "uniques": ["[-100]% maintenance costs", "Can be carried by [All] units"],
         "attackSound": "missile"
     },
      {   
