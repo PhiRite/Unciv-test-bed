@@ -1,7 +1,7 @@
 [
     {
         "name": "ROCK",
-        "unitType": "Missile",
+        "unitType": "Sword",
         "movement": 1,
         "strength": 60,
         "rangedStrength": 60,
@@ -10,5 +10,17 @@
         "uniqueTo": "Coleopteran Swarm",
         "uniques": ["[-100]% maintenance costs", "Can be carried"],
         "attackSound": "missile"
-    }
+    },
+     {   
+		"name": "Warrior",
+		"unitType": "Sword",
+		"movement": 2,
+		"strength": 8,
+		"cost": 40,
+		"uniques": ["Can carry [3] [ROCK] units", "[2] free [ROCK] units appear"],
+		"attackSound": "nonmetalhit",
+        "civilopediaText": [
+			{"text": "This is your basic, club-swinging fighter."}
+		]
+	},
 ]
