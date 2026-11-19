@@ -17,7 +17,9 @@
 		"movement": 2,
 		"strength": 8,
 		"cost": 40,
-		"uniques": ["Can carry [3] [ROCK] units", "[2] free [ROCK] units appear"],
+		"uniques": ["Can carry [3] [ROCK] units", 
+					//"[2] free [ROCK] units appear"
+		],
 		"attackSound": "nonmetalhit",
         "civilopediaText": [
 			{"text": "This is your basic, club-swinging fighter."}
